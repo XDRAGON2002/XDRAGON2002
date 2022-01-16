@@ -1,24 +1,24 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm DRAGON2002!
-<!-- <h3 align="center">I'm a passionate Full Stack Blockchain Developer from India.</h3>
+<h3 align="center">I'm a passionate Full Stack Blockchain Developer from India.</h3>
 
  ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Deep Reinforcement Learning**
  
-- 🔥 I'm also enhancing myself in the field of **Blockchain**
+- 🔥 I'm also enhancing myself in the field of **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
  
-- 🖋️ I love to write technology-based articles. Check them out at **[My Articles](https://medium.com/@kailash360)** 
+- 🖋️ I love to write technology-based articles. Check them out at **[My Articles](https://medium.com/@anantvijay3)** 
 
-- 📫 How to reach me **kailashkejriwal21@gmail.com**
+- 📫 How to reach me **anantvijay3@gmail.com**
  
-- 🧑 More of me at **[kailash360.vercel.app](https://www.kailash360.vercel.app)**
+- 🧑 More of me at **[dragon2002.vercel.app](https://www.dragon2002.vercel.app)**
  
-## 🚀 Languages and Tools:
+<!-- ## 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
