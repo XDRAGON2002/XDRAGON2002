@@ -69,7 +69,7 @@
    <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width=45 height=45></img>
 </p>
  
-# 📊 My Github Stats
+## 📊 My Github Stats
  
 <p align="center">
     <a href="https://github.com/xdragon2002/github-readme-streak-stats">
