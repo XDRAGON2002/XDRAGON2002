@@ -16,7 +16,7 @@
 
 - 📫 Reach out to me at my **[Email](anantvijay3@gmail.com)**
  
-- 🧑 More of me at my **[Portfolio Website](https://www.dragon2002.vercel.app)**
+- 🧑 More of me at my **[Portfolio Website](https://dragon2002.vercel.app)**
  
 ## 🚀 Languages and Tools:
 
