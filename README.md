@@ -14,7 +14,7 @@
  
 - 🖋️ I love to write technology-based articles, check them out at **[Medium](https://medium.com/@anantvijay3)** 
 
-- 📫 Reach out to me at my **[Email](anantvijay3@gmail.com)**
+- 📫 Reach out to me at my **[Email](https://anantvijay3@gmail.com)**
  
 - 🧑 More of me at my **[Portfolio Website](https://dragon2002.vercel.app)**
  
