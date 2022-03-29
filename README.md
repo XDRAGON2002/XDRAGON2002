@@ -68,6 +68,7 @@
    <img src="https://img.icons8.com/color/96/000000/ubuntu--v1.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/4a90e2/kali-linux.png" width=45 height=45></img>
    <img src="https://img.icons8.com/doodle/96/000000/canva.png" width=45 height=45></img>
+   <img src="https://img.icons8.com/color/96/000000/markdown.png" width=45 height=45></img>
    <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width=45 height=45></img>
 </p>
  
