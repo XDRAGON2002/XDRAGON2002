@@ -23,6 +23,7 @@
 <p align="left"> 
    <img src="https://img.icons8.com/color/96/000000/python--v1.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/javascript.png" width=45 height=45></img>
+   <img src="https://img.icons8.com/color/96/000000/typescript.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width=45 height=45></img>
    <img src="https://img.icons8.com/plasticine/100/000000/bash.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/css3.png" width=45 height=45></img>
@@ -36,6 +37,7 @@
    <img src="https://images.ctfassets.net/hb3id6ag4raq/6NcXL0fTlSXR9tVL14LYJ/c6a2a3dea44cbf46826cd6d5596b5797/apple-touch-icon.png" width=45 height=45></img>
    <img src="https://img.icons8.com/fluency/96/000000/gatsbyjs.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/material-ui.png" width=45 height=45></img>
+   <img src="https://img.icons8.com/color/96/000000/chakra-ui.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/firebase.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/django.png" width=45 height=45></img>
    <img src="https://img.icons8.com/fluency/96/000000/flask.png" width=45 height=45></img>
