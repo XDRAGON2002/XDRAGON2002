@@ -6,9 +6,9 @@
  ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Deep Reinforcement Learning**
+- 🌱 I’m currently learning **Systems Design and DevOps**
  
-- 🔥 I'm also enhancing myself in the field of **Machine Learning**
+- 🔥 I'm also enhancing myself in the field of **Machine Learning and DevOps**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
  
