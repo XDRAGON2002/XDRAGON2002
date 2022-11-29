@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
  
-- 🖋️ I love to write technology-based articles, check them out at **[Medium](https://medium.com/@anantvijay3)** 
+- 🖋️ I love to write technology-based articles, check them out at **[Hashnode](https://dragon2002.hashnode.dev/)** 
 
 - 📫 Reach out to me at my **<a href="mailto:anantvijay3@gmail.com">Email</a>**
  
