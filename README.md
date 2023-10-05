@@ -34,7 +34,6 @@
    <img src="https://img.icons8.com/color/96/000000/bootstrap.png" width=45 height=45></img>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/redux.png" width=45 height=45></img>
-   <img src="https://images.ctfassets.net/hb3id6ag4raq/6NcXL0fTlSXR9tVL14LYJ/c6a2a3dea44cbf46826cd6d5596b5797/apple-touch-icon.png" width=45 height=45></img>
    <img src="https://img.icons8.com/fluency/96/000000/gatsbyjs.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/material-ui.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/chakra-ui.png" width=45 height=45></img>
